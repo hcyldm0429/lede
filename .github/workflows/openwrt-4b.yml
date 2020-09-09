@@ -9,7 +9,7 @@
 
 name: pi_4b
 
-#on:
+on:
   push:
     branches: 
       - master
